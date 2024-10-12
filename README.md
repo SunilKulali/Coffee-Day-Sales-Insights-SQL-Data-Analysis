@@ -5,9 +5,9 @@ This project contains an SQL database designed for advanced business analysis of
 The project is designed to provide critical insights into the operations of a coffee chain business. By leveraging SQL queries, users can explore patterns in sales performance, understand customer behavior, and analyze city-wise and product-wise performance. The database includes sales records, product details, customer information, and city-specific metrics, making it a powerful tool for business intelligence.
 
 ## Key objectives of this analysis include:
-*Tracking total sales and identifying best-selling products.
-*Understanding high-value customers and their purchasing patterns.
-*Analyzing city-wise sales and identifying top-performing locations.
+*Tracking total sales and identifying best-selling products.<br>
+*Understanding high-value customers and their purchasing patterns.<br>
+*Analyzing city-wise sales and identifying top-performing locations.<br>
 *Leveraging advanced SQL functions such as cumulative averages, product ranking, and customer segmentation for deeper insights.
 
 ## Project Features:
@@ -32,11 +32,11 @@ The project contains a collection of SQL queries that answer important business 
 8)Last Purchase by Customer: Display the most recent purchase made by each customer.<br>
 
 ## How to Use:
-Import the provided SQL file into your PostgreSQL/MySQL database.
-Run the SQL queries to generate insights into sales performance, customer behavior, and product success.
-Modify the queries as per specific analytical requirements or business questions.
+Import the provided SQL file into your PostgreSQL/MySQL database.<br>
+Run the SQL queries to generate insights into sales performance, customer behavior, and product success.<br>
+Modify the queries as per specific analytical requirements or business questions.<br>
 
 ## Future Enhancements:
-Integrating data visualization tools for a more intuitive representation of insights.
-Expanding the dataset with customer feedback and marketing data.
+Integrating data visualization tools for a more intuitive representation of insights.<br>
+Expanding the dataset with customer feedback and marketing data.<br>
 Adding predictive analytics capabilities for forecasting sales trends and customer preferences.
