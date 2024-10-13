@@ -32,7 +32,8 @@ The project contains a collection of SQL queries that answer important business 
 8)Last Purchase by Customer: Display the most recent purchase made by each customer.<br>
 
 ## Schema
-![Coffee Day Sales Schema](https://raw.githubusercontent.com/SunilKulali/Coffee-Day-Sales-Insights-SQL-Data-Analysis/main/Schema.png)
+![Coffee Day Sales Schema](https://github.com/SunilKulali/Coffee-Day-Sales-Insights-SQL-Data-Analysis/raw/main/Scheme.png)
+
 
 
 ## How to Use:
