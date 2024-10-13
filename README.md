@@ -1,6 +1,8 @@
 # Coffee-Day-Sales-Insights-SQL-Data-Analysis
 This project contains an SQL database designed for advanced business analysis of a coffee chain's sales, customers, cities, and product data. The queries provided offer insights into product performance, customer behavior, and city-specific metrics, enabling comprehensive data analysis for optimizing business decisions.
 
+![Coffee Day Sales Insights](https://github.com/SunilKulali/Coffee-Day-Sales-Insights-SQL-Data-Analysis/raw/main/Coffee%20Day.png)
+
 ## Overview:
 The project is designed to provide critical insights into the operations of a coffee chain business. By leveraging SQL queries, users can explore patterns in sales performance, understand customer behavior, and analyze city-wise and product-wise performance. The database includes sales records, product details, customer information, and city-specific metrics, making it a powerful tool for business intelligence.
 
