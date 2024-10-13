@@ -31,6 +31,10 @@ The project contains a collection of SQL queries that answer important business 
 7)Cumulative Average Sales by Product: Calculate the cumulative average sales per product by date.<br>
 8)Last Purchase by Customer: Display the most recent purchase made by each customer.<br>
 
+## Schema
+![Coffee Day Sales Schema](https://raw.githubusercontent.com/SunilKulali/Coffee-Day-Sales-Insights-SQL-Data-Analysis/main/Schema.png)
+
+
 ## How to Use:
 Import the provided SQL file into your PostgreSQL/MySQL database.<br>
 Run the SQL queries to generate insights into sales performance, customer behavior, and product success.<br>
